@@ -1,0 +1,29 @@
+/* Custom Styles */
+.site-description{
+	color: #fff;
+    font-size: 18px;
+    font-weight: 300;
+    font-family: Oswald, Helvetica, sans-serif;
+    margin: 10px 0;
+    text-align: center;
+    text-shadow: 1px 1px 1px rgba(0,0,0,0.1);    
+}
+.site-title{
+	color: #fff;
+    font-size: 40px;
+    font-weight: 500;
+    line-height: 1.1em;
+    margin: 15px 0 0 0;
+    text-align: center;
+    text-shadow: 1px 1px 1px rgba(0,0,0,0.1);
+    text-transform: uppercase;    
+}
+
+.header-section{
+	background: #ff0;
+	border-right: solid 5px #eee;
+}
+
+.main-body-section{
+	background: #999;
+}
