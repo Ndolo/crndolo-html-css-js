@@ -1,4 +1,48 @@
-/* Custom Styles */
+/*
+* Template Name: crndolo personal site
+* Author: crndolo
+* Author URL: http://crndolo.com
+* Version: 1.0
+*/
+
+/* =============================================================================
+
+1. Fonts
+2. Header Section
+3. Main Body Section
+============================================================================= */
+
+/* ============================================================================= 
+1. Fonts
+============================================================================= */
+
+/* Google fonts */
+@import url("https://fonts.googleapis.com/css?family=Oswald:300,400,700");
+
+@import url("https://fonts.googleapis.com/css?family=PT+Sans:400,700,400italic,700italic&subset=latin,latin-ext,cyrillic");
+
+
+/* ============================================================================= 
+2. Header Section
+============================================================================= */
+.header-section{
+	background: #c6e2ee;
+	background: rgb(198,226,238);
+	/*background: #ff0;*/
+	border-right: solid 5px #e5f7f9;
+	
+}
+
+.my-profile-pic{
+	text-align: center;
+	width: 100%;
+}
+
+.my-profile-pic img{	
+	width: 70%;
+	z-index: 0;
+}
+
 .site-description{
 	color: #fff;
     font-size: 18px;
@@ -8,9 +52,51 @@
     text-align: center;
     text-shadow: 1px 1px 1px rgba(0,0,0,0.1);    
 }
+
+.site-main-nav{
+    display: block;
+    padding: 0;
+    margin: 0;
+    font-family: Oswald, Helvetica, sans-serif;
+}
+
+.site-main-nav li{
+	
+	border-bottom: solid 1px #93d1ec;		
+	width: 100%;    
+}
+
+.site-main-nav li:hover{
+	background: #e5f7f9;	
+}
+
+.site-main-nav li.active{
+	border-right: solid 4px #93d1ec;
+}
+
+.site-main-nav li.start{
+	border-top: solid 1px #93d1ec;
+}
+
+.site-main-nav li a{
+	color: #222;
+	display: block;
+	font-size: 15px;
+    font-weight: 600;
+    outline: none;
+	padding: 10px 20px;
+	            
+    text-decoration: none;   
+}
+
+.site-menu{
+    display: block;
+    padding: 25px 0 30px;
+}
+
 .site-title{
 	color: #fff;
-    font-size: 40px;
+    font-size: 30px;
     font-weight: 500;
     line-height: 1.1em;
     margin: 15px 0 0 0;
@@ -19,11 +105,68 @@
     text-transform: uppercase;    
 }
 
-.header-section{
-	background: #ff0;
-	border-right: solid 5px #eee;
+.social-media{		
+	margin-bottom: 45px;
+	padding: 10px;
+	text-align: center;
+	width: 100%;
 }
 
+
+.social-media li a{	
+	background: #e5f7f9;
+	border: solid 3px #c6e2ee;
+	color: #93d1ec;
+	padding: 7px;
+	text-align: center;
+}
+
+.social-media ul{
+	text-align: center;
+}
+
+
+/* ============================================================================= 
+3. Main Body Section
+============================================================================= */
+
 .main-body-section{
-	background: #999;
+	background: #fff;
+	overflow: hidden;
+	padding: 50px;
+}
+
+..main-body-section h2{
+	font-size: 10px;
+}
+
+.main-body-section-title{
+    display: inline-block;
+    position: relative;
+    margin: 0 0 0 -55px;
+    padding: 5px 20px 5px 63px;
+    background-color: #f4bb84;
+    color: #fff;
+    line-height: 1.1em;
+    font-weight: 500;
+    text-shadow: 1px 1px 1px rgba(0,0,0,0.1);
+}
+
+.main-body-section-about-me{
+	color: #222;
+    font-family: Oswald, Helvetica, sans-serif;
+    
+}
+
+.main-body-section-about-me h3{
+	line-height: 1.5em;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    text-transform: capitalize;
+}
+
+.main-body-section-about-me p{
+    font-size: 0.875em;
+    margin: 0 0 10px;
+    font-weight: 300;
 }

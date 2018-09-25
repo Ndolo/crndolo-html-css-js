@@ -7,6 +7,8 @@
 			<link href="css/styles.css" rel="stylesheet" type="text/css">
 			<!-- Bootrstrap CSS -->
 			<link href="css/bootstrap.min.css" rel="stylesheet" type="text/css">
+			<!-- Font Awesome -->
+			<link rel="stylesheet" type="text/css" href="css/font-awesome.min.css" />
 	</head>
 	<body>
 
@@ -25,13 +27,60 @@
 							<p class="site-description">
 								Full stack Web Developer
 							</p>
+
+							<div class="my-profile-pic">
+								<img src="images/my_photo.jpg" alt="image">
+							</div>						
 						</div>
+
+						<div class="col-md-12">
+							<div class="site-menu">
+								<ul class="nav site-main-nav">
+									<li class="active start"> <a href="#"> About Me </a> </li>
+									<li> <a href="#"> Resume </a> </li>
+									<li> <a href="#"> Portfolio </a> </li>
+									<li> <a href="#"> Contact </a> </li>
+								</ul>
+							</div>
+						</div>
+
+						<div class="col-md-12">
+							<div class="social-media">
+								<ul class="nav nav-justified">
+									<li> <a href="#"> <i class="fa fa-twitter"> </i> </a> </li>
+									<li> <a href="#"> <i class="fa fa-facebook"> </i> </a> </li>
+									<li> <a href="#"> <i class="fa fa-instagram"> </i> </a> </li>
+									<li> <a href="#"> <i class="fa fa-youtube"> </i> </a> </li>
+									<li> <a href="#"> <i class="fa fa-google-plus"> </i> </a> </li>
+								</ul>
+							</div>
+						</div>
+
 					</div>
 				</div>
 
 				<!-- Eight column to display site body-->
 				<div class="col-md-9 main-body-section">
-					Eight Column
+					
+					<div class="row">
+						<div class="col-md-12">
+							<div class="main-body-section-title">
+								<h2> About Me </h2>
+							</div>
+
+							<div class="main-body-section-about-me">
+								<h3> I am a fullstack web developer </h3>
+								<p>
+									Proin laoreet elementum ligula, ac tincidunt lorem accumsan nec. Fusce eget urna ante. Donec massa velit, varius a accumsan ac, tempor iaculis massa. Sed placerat justo sed libero varius vulputate. Ut a mi tempus massa malesuada fermentum.
+								</p>
+								<p>
+								Sed eleifend sed nibh nec fringilla. Donec eu cursus sem, vitae tristique ante. Cras pretium rutrum egestas. Integer ultrices libero sed justo vehicula, eget tincidunt tortor tempus. Sed tellus nibh, lobortis ut blandit sed, convallis a mauris.
+								</p>
+							</div>
+							
+						</div>
+					</div>
+
 				</div>
 			</div>
 		</div>
