@@ -71,6 +71,7 @@
 }
 
 .site-main-nav li.active{
+	background: #e5f7f9;		
 	border-right: solid 4px #93d1ec;
 }
 
@@ -147,6 +148,13 @@
     font-weight: 300;
 }
 
+.block-description p i{
+	
+	font-size: 20px;
+	font-weight: normal;
+	padding-right: 20px;
+}
+
 .block-image img{
 	max-width: 100px;
     max-height: 100px;
@@ -158,6 +166,10 @@
 	display: inline-block;
     margin: 0 0 15px;
     padding-bottom: 3px;
+}
+
+.contact-information{
+	text-align: left;
 }
 
 .main-body-section{
@@ -173,12 +185,12 @@
 }
 
 .main-body-section-title{
+	background-color: #f4bb84;
+    color: #fff;
     display: inline-block;
     position: relative;
     margin: 0 0 0 -55px;
-    padding: 5px 20px 5px 63px;
-    background-color: #f4bb84;
-    color: #fff;
+    padding: 5px 20px 5px 63px;    
     line-height: 1.1em;
     font-weight: 500;
     text-shadow: 1px 1px 1px rgba(0,0,0,0.1);
@@ -203,6 +215,21 @@
     font-weight: 300;
 }
 
+.send-button{
+	background: #ffffff;
+	border: solid 2px #f4bb84;
+	color: #f4bb84;
+	font-weight: 600;
+	padding: 10px;
+
+}
+
+.send-button:hover{
+	background: #f4bb84;
+	color: #ffffff;
+}
+
 .what-i-do{	
 	padding-top:30px;
 }
+

@@ -36,9 +36,9 @@
 						<div class="col-md-12">
 							<div class="site-menu">
 								<ul class="nav site-main-nav">
-									<li class="active start"> <a href="index.php"> About Me </a> </li>
+									<li class="start"> <a href="index.php"> About Me </a> </li>
 									<li> <a href="resume.php"> Resume </a> </li>
-									<li> <a href="portfolio.php"> Portfolio </a> </li>
+									<li class="active"> <a href="portfolio.php"> Portfolio </a> </li>
 									<li> <a href="contact.php"> Contact </a> </li>
 								</ul>
 							</div>
