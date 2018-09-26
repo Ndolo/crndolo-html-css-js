@@ -72,10 +72,10 @@
 							<div class="main-body-section-about-me">
 								<h3> I am a fullstack web developer </h3>
 								<p>
-									Proin laoreet elementum ligula, ac tincidunt lorem accumsan nec. Fusce eget urna ante. Donec massa velit, varius a accumsan ac, tempor iaculis massa. Sed placerat justo sed libero varius vulputate. Ut a mi tempus massa malesuada fermentum.
+									With more than four years experience in web development, I have slowly developed my skills from a fron end web developer to a fullstack web developer, developing websites using HTML, CSS, Javascript, PHP and Python. I can also develop websites using Django, a python Framework. In additon, I can also develop sites using Content Managemen Systems like Wordpress.
 								</p>
 								<p>
-								Sed eleifend sed nibh nec fringilla. Donec eu cursus sem, vitae tristique ante. Cras pretium rutrum egestas. Integer ultrices libero sed justo vehicula, eget tincidunt tortor tempus. Sed tellus nibh, lobortis ut blandit sed, convallis a mauris.
+								 Contact me and let's work together.
 								</p>
 							</div>
 
