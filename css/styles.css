@@ -129,11 +129,43 @@
 /* ============================================================================= 
 3. Main Body Section
 ============================================================================= */
+.block-description{	
+	color: #222;
+    font-family: Oswald, Helvetica, sans-serif;
+	text-align: center;
+}
+
+.block-description h4{    
+    line-height: 1.5em;
+    margin-top: 0;
+    margin-bottom: 10px;
+}
+
+.block-description p{
+	font-size: 0.875em;
+    margin: 0 0 10px;
+    font-weight: 300;
+}
+
+.block-image img{
+	max-width: 100px;
+    max-height: 100px;
+    margin: 0 0 18px;
+}
+
+.block-title{
+	border-bottom: solid 2px #fabf87;
+	display: inline-block;
+    margin: 0 0 15px;
+    padding-bottom: 3px;
+}
 
 .main-body-section{
 	background: #fff;
 	overflow: hidden;
 	padding: 50px;
+	padding-top: 20px;
+
 }
 
 ..main-body-section h2{
@@ -169,4 +201,8 @@
     font-size: 0.875em;
     margin: 0 0 10px;
     font-weight: 300;
+}
+
+.what-i-do{	
+	padding-top:30px;
 }

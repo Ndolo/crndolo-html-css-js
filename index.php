@@ -52,6 +52,7 @@
 									<li> <a href="#"> <i class="fa fa-instagram"> </i> </a> </li>
 									<li> <a href="#"> <i class="fa fa-youtube"> </i> </a> </li>
 									<li> <a href="#"> <i class="fa fa-google-plus"> </i> </a> </li>
+									<li> <a href="#"> <i class="fa fa-github"> </i> </a> </li>
 								</ul>
 							</div>
 						</div>
@@ -77,8 +78,60 @@
 								Sed eleifend sed nibh nec fringilla. Donec eu cursus sem, vitae tristique ante. Cras pretium rutrum egestas. Integer ultrices libero sed justo vehicula, eget tincidunt tortor tempus. Sed tellus nibh, lobortis ut blandit sed, convallis a mauris.
 								</p>
 							</div>
-							
+
 						</div>
+					</div>
+
+					<div class="row">
+						
+						<div class="col-md-12">
+							<div class="what-i-do">
+								<div class="block-title">
+									<h3> What I do </h3>
+								</div>
+							</div>
+						</div>					
+						
+					</div>
+
+					<div class="row">
+
+						<div class="col-md-4">
+							<div class="block-description">
+								<div class="block-image">
+									<img src="images/what-i-do/development.png">
+								</div>
+								<h4> Web Development </h4>
+								<p>
+									I do both front end and backend web development, having a good mastery of HTML, CSS, Javascript, PHP and Python programming languages.
+								</p>
+							</div>
+						</div>
+
+						<div class="col-md-4">
+							<div class="block-description">
+								<div class="block-image">
+									<img src="images/what-i-do/video-editing.png">
+								</div>
+								<h4> Videos Tutorials </h4>
+								<p>
+									With three years lecturing web development, I have created video tutorials that will help share the development skills I have learnt.
+								</p>
+							</div>
+						</div>
+
+						<div class="col-md-4">
+							<div class="block-description">
+								<div class="block-image">
+									<img src="images/what-i-do/hiking.png">
+								</div>
+								<h4> Hiking </h4>
+								<p>
+									After a week of pure hard work and achiving my goals, I like to unwind by walking in nature, and what better way to do so than a weekend hike.
+								</p>
+							</div>
+						</div>
+
 					</div>
 
 				</div>
