@@ -50,11 +50,11 @@
                 <div class="col-md-12">
                     <div class="social-media">
                         <ul class="nav">
-                            <li> <a href="#"> <i class="fa fa-twitter"> </i> </a> </li>
-                            <li> <a href="#"> <i class="fa fa-facebook"> </i> </a> </li>
-                            <li> <a href="#"> <i class="fa fa-instagram"> </i> </a> </li>
-                            <li> <a href="#"> <i class="fa fa-youtube"> </i> </a> </li>	
-                            <li> <a href="#"> <i class="fa fa-github"> </i> </a> </li>
+                            <li class="twitter_account"> <a href="https://twitter.com/crndolo"> <i class="fa fa-twitter"> </i> </a> </li>
+                            <!--<li> <a href="#"> <i class="fa fa-facebook"> </i> </a> </li>
+                            <li> <a href="#"> <i class="fa fa-instagram"> </i> </a> </li>-->
+                            <li class="youtube_account"> <a href="https://www.youtube.com/channel/UCm8TMlKvLg5m8SPuisQDOOg?disable_polymer=true"> <i class="fa fa-youtube"> </i> </a> </li>	
+                            <li class="github_account"> <a href="https://github.com/ndolocr" > <i class="fa fa-github"> </i> </a> </li>
                         </ul>
                     </div>
                 </div>

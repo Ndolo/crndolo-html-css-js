@@ -189,8 +189,8 @@ body{
 }
 
 .social-media li a{
-    color: #81A3A7;
-    color: rgba(129,163,167,0.7);
+    /*color: #81A3A7;
+    color: rgba(129,163,167,0.7);*/
     font-size: 18px;
     padding: 7px;
     text-align: center;    
@@ -201,6 +201,23 @@ body{
     background: rgba(39,36,36);
     color: #81A3A7;
     color: rgba(129,163,167,1.0);
+}
+
+.github_account a{
+    color: #211F1F;
+    color: rgba(33,31,31,1.0);
+    color: #FFFFFF;
+    color: rgba(255,255,255,1.0);
+}
+
+.twitter_account a{
+    color: #00ACEE;
+    color: rgba(0,172,238,1.0);
+}
+
+.youtube_account a{
+    color: #FF0000;
+    color: rgba(255,0,0,1.0);
 }
 
 /* ============================================================================= 
